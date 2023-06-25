@@ -1,0 +1,5 @@
+{
+    "watch": ["src/**/*.module.scss"],
+    "ext": "scss",
+    "exec": "npm run generate-types"
+}
