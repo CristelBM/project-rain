@@ -5,6 +5,7 @@ This project aims to provide a platform for developers to share, collaborate, an
 The website's primary goal is to foster a community of programmers who can easily exchange code snippets, projects, and programming knowledge, as well as to provide a convenient and accessible way to store and manage code snippets
 
 ## Getting Started
+> The steps below assumes that you are using VSCode as your code editor
 
 You can start developing by running the tasks.
 1. Go to VSCode Terminal. `CTRL + backtick`
