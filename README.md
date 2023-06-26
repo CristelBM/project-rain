@@ -7,4 +7,4 @@ It can be used for technical interviews, code reviews, teaching and more! or jus
 
 ## Status
 
-Webapp is still under development and this ReadMe.md will be updated soon.
+Project rain is still under development and this ReadMe.md will be updated soon.
