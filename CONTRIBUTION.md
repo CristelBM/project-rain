@@ -9,8 +9,8 @@ The website's primary goal is to foster a community of programmers who can easil
 1. Fork the repository
 2. Clone the repository you forked
 3. Create a new branch
-4. Make changes
-Before making changes, please read this doc first:
+4. Make changes<br/>
+Before making changes, please read this doc first:<br/>
 https://docs.google.com/document/d/1dlx2T-CAuS64X3dq6L6vVm0qMgC-OVJHs1yDHLigIRM/edit?usp=sharing
 
 5. Commit changes
